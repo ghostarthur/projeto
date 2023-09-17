@@ -38,10 +38,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
+## 📝 Licença
 
 Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Arthur :wave: [Acesse o meu Discord para mais informação!](https://discord.com/channels/@me)
+Feito com ♥ by Arthur 👋 [Acesse o meu Discord para mais informação!](https://discord.com/channels/@me)
