@@ -21,9 +21,8 @@
   --surface-color: rgba(0, 0, 0, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
   --highlight-color: rgba(0, 0, 0, 0.1);
-   --switch-bg-url: url(./assets/sun.svg);
+  --switch-bg-url: url(./assets/sun.svg);
 }
-
 
 body {
   background: var(--bg-url) no-repeat top center/cover;
@@ -35,9 +34,10 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
   margin: 56px auto 0px auto;
   padding: 0 24px;
+  max-width: 588px;
 }
 
 /* profile */
@@ -64,7 +64,6 @@ body * {
   margin: 4px auto;
 }
 
-
 #switch button {
   width: 32px;
   height: 32px;
@@ -72,20 +71,17 @@ body * {
   border: 0;
   border-radius: 50%;
 
-    position: absolute;
+  position: absolute;
   top: 50%;
   left: 0;
   z-index: 1;
   transform: translateY(-50%);
 }
 
-.ligth #switch button{
+.ligth #switch button {
   right: 0;
   left: initial;
 }
-
-
-
 
 #switch span {
   display: block;
