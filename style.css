@@ -14,7 +14,7 @@
   --switch-bg-url: url(./assets/moon-stars.svg);
 }
 
-.ligth {
+.light {
   --text-color: black;
   --bg-url: url(./assets/bg-mobile-light.jpg);
   --stroke-color: rgba(0, 0, 0, 0.5);
@@ -81,7 +81,7 @@ body * {
   animation: slide-back 0.2s;
 }
 
-.ligth #switch button {
+.light #switch button {
   animation: slide-in 0.4s forwards;
 }
 
